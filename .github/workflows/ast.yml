@@ -21,5 +21,9 @@ jobs:
           SHOW_TIMEZONE: "False"
           SYMBOL_VERSION: "1"
           SHOW_SHORT_INFO: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
 
 
