@@ -54,11 +54,11 @@ No AI Coding Activity Tracked This Week
 **我最常使用 Go** 
 
 ```text
-Go                       10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-GDScript                 5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Go                       10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+GDScript                 5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -68,5 +68,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pycnocline/Pycnocline/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:35:52 UTC
+ Last Updated on 16/09/2026 21:31:44 UTC
 <!--END_SECTION:waka-->
